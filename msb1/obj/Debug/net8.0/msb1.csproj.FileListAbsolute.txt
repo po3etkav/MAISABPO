@@ -1,0 +1,14 @@
+C:\Users\Дом\source\repos\msb1\msb1\bin\Debug\net8.0\msb1.exe
+C:\Users\Дом\source\repos\msb1\msb1\bin\Debug\net8.0\msb1.deps.json
+C:\Users\Дом\source\repos\msb1\msb1\bin\Debug\net8.0\msb1.runtimeconfig.json
+C:\Users\Дом\source\repos\msb1\msb1\bin\Debug\net8.0\msb1.dll
+C:\Users\Дом\source\repos\msb1\msb1\bin\Debug\net8.0\msb1.pdb
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.AssemblyInfoInputs.cache
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.AssemblyInfo.cs
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.csproj.CoreCompileInputs.cache
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.dll
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\refint\msb1.dll
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.pdb
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\msb1.genruntimeconfig.cache
+C:\Users\Дом\source\repos\msb1\msb1\obj\Debug\net8.0\ref\msb1.dll

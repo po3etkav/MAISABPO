@@ -1,0 +1,17 @@
+D:\Users\Дом\Desktop\2maisab\2maisab\bin\Debug\net7.0\2maisab.exe
+D:\Users\Дом\Desktop\2maisab\2maisab\bin\Debug\net7.0\2maisab.deps.json
+D:\Users\Дом\Desktop\2maisab\2maisab\bin\Debug\net7.0\2maisab.runtimeconfig.json
+D:\Users\Дом\Desktop\2maisab\2maisab\bin\Debug\net7.0\2maisab.dll
+D:\Users\Дом\Desktop\2maisab\2maisab\bin\Debug\net7.0\2maisab.pdb
+D:\Users\Дом\Desktop\2maisab\2maisab\bin\Debug\net7.0\ConsoleTables.dll
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.csproj.AssemblyReference.cache
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.AssemblyInfoInputs.cache
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.AssemblyInfo.cs
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.csproj.CoreCompileInputs.cache
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.csproj.CopyComplete
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.dll
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\refint\2maisab.dll
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.pdb
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\2maisab.genruntimeconfig.cache
+D:\Users\Дом\Desktop\2maisab\2maisab\obj\Debug\net7.0\ref\2maisab.dll
